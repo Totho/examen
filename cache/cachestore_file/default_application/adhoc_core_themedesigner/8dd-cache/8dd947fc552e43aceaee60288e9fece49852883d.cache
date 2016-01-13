@@ -1,0 +1,10 @@
+a:2:{s:4:"data";s:171:"/** Path: plugin tool_task .' **/
+#page-admin-tool-task-scheduledtasks .task-class {
+    display: block;
+    padding: 0 0.5em;
+    color: #888;
+    font-size: 0.75em;
+}
+
+
+";s:7:"created";i:1452627876;}

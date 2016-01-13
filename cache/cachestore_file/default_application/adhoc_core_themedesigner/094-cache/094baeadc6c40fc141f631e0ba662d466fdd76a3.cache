@@ -1,0 +1,7 @@
+a:2:{s:4:"data";s:107:"/** Path: plugin atto_backcolor .' **/
+.atto_backcolor_button .dropdown-menu {
+    min-width: inherit;
+}
+
+
+";s:7:"created";i:1452629176;}

@@ -1,0 +1,16 @@
+a:2:{s:4:"data";s:338:"/** Path: plugin report_completion .' **/
+#page-report-completion-index table#completion-progress {
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+#page-report-completion-index .export-actions {
+    text-align: center;
+    list-style: none;
+}
+#page-report-completion-index.dir-rtl #completion-progress th svg {
+    direction: ltr;
+}
+
+
+";s:7:"created";i:1452627876;}

@@ -1,0 +1,8 @@
+a:2:{s:4:"data";s:118:"/** Path: plugin atto_collapse .' **/
+@media (max-width: 768px) {
+    .toolbarbreak {
+        display: none;
+    }
+}
+
+";s:7:"created";i:1452629176;}

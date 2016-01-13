@@ -1,0 +1,8 @@
+a:2:{s:4:"data";s:151:"/** Path: plugin workshopallocation_random .' **/
+.path-mod-workshop .random-allocator .warning {
+    width: 100%;
+    margin: 0px auto 15px auto;
+}
+
+
+";s:7:"created";i:1452629176;}
